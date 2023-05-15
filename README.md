@@ -1,4 +1,4 @@
-# Ex-07-Data-Visualization-
+# Ex-08-Data-Visualization-
 
 ## AIM
 To Perform Data Visualization on the given dataset and save the data to a file. 
@@ -146,11 +146,9 @@ plt.show()
 ### 1.Line Plot
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/394e4a7b-c308-496e-a09b-2b1485f5aea0)
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/86307d8c-22fb-42e9-9e36-2db844d2b9dc)
-![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/665d02f5-2a53-4646-88fd-c65b92e2b05f)
 ### 2.Scatterplot
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/60359684-a08e-402f-a4ef-a1a47d336412)
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/ec6a3ad3-d91f-4b87-a0af-480b9054cb5c)
-![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/525d063a-67a9-4eb3-bbd4-98100ae635d7)
 ### 3.Boxplot:
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/3cb10ebb-ad27-4f53-97c9-a6263294b3a7)
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/60dcfc2e-b362-40cc-a3c9-8a5af629b5ce)
@@ -160,7 +158,6 @@ plt.show()
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/814c8c73-3432-4408-b5a9-4398d86b23fe)
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/db32d3ea-8227-46da-96aa-5a0bbb821691)
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/6732040c-cd2f-40c7-8bd8-d6d91aaf561f)
-![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/47da793e-f217-49fb-bfd0-c8c1c6cd7af4)
 ### 6.Pointplot
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/29ef020a-5b5e-49b0-8198-17c7dec84d6d)
 ### 7.Count plot
@@ -187,6 +184,4 @@ plt.show()
 ### 7.Boxplot:
 ![image](https://github.com/DHARSHINISENTHILKUMAR/Ex-08-Data-Visualization-/assets/113699377/8ddff1a9-666a-4eb7-bdc6-7226d1586a26)
 # Result:
-~~~
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
-~~~
